@@ -1,0 +1,6 @@
+.secrets/
+__pycache__/
+*.pyc
+.env
+server.log
+.DS_Store
